@@ -17,7 +17,10 @@
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
 <a href="https://www.instagram.com/ana_claudiads/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/ana-claudia-a9527622a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
- 	
+<a href="http://lattes.cnpq.br/1813230095911100" target="_blank"><img src="https://img.shields.io/badge/Lattes-0077B5?style=for-the-badge&logo=lattes&logoColor=white" alt="Lattes"></a>
+
+
+
 </div> 
 
 ##
@@ -54,8 +57,7 @@
 </details>
 <br>
 <br> 
-
-![GIF](https://media.tenor.com/images/f70f9301073070af32e3f7347ec66b94/tenor.gif)
-
+<div align="center">  
+<img src="https://github.com/Anaclauds/Anaclauds/blob/main/guby-cute.gif" width="400">
+</div> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF85C0&height=120&section=footer"/>
-
