@@ -7,7 +7,7 @@
 ##
 
 [![Anaclauds GitHub stats-Light](https://github-readme-stats-silk-zeta-25.vercel.app/api?username=Anaclauds&show_icons=true&theme=radical&title_color=FF007F&icon_color=FFFF00&border_color=00000000&bg_color=000000#gh-light-mode-only)](https://github.com/Anaclauds/github-readme-stats#gh-light-mode-only) 
-<img width="41%" height="196px" src="https://github-readme-stats-silk-zeta-25.vercel.app/api/top-langs/?username=Anaclauds&layout=compact&hide_border=true&title_color=FF007F&text_color=FFFF00&bg_color=000000" />
+<img width="50%" height="200px" src="https://github-readme-stats-silk-zeta-25.vercel.app/api/top-langs/?username=Anaclauds&layout=compact&hide_border=true&title_color=FF007F&text_color=FFFF00&bg_color=000000" />
 
 <br> 
 
